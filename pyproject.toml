@@ -10,5 +10,5 @@ dependencies = [
     "numba>=0.63.1",
     "scikit-learn>=1.8.0",
     "scipy>=1.17.0",
-    "spikeinterface[widgets]>=0.103.2",
+    "spikeinterface>=0.103.2",
 ]
